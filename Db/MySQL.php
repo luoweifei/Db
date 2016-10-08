@@ -9,7 +9,7 @@ class MySQL implements IDatabase
 
     function query()
     {
-        echo "qqq";
+        echo "qqqq";
     }
 
     function close()
