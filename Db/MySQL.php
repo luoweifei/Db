@@ -4,7 +4,7 @@ class MySQL implements IDatabase
 {
     function connect()
     {
-        // TODO: Implement connect() method.
+        echo "dsda";
     }
 
     function query()
