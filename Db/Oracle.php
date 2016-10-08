@@ -15,7 +15,7 @@ class Oracle implements IDatabase
 
     function close()
     {
-        Failed with error: fatal: unable to access 'https://github.com/luoweifei/Db.git/': The requested URL returned error: 403
+        //Failed with error: fatal: unable to access 'https://github.com/luoweifei/Db.git/': The requested URL returned error: 403
     }
 
 }
