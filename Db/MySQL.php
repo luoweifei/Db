@@ -4,12 +4,12 @@ class MySQL implements IDatabase
 {
     function connect()
     {
-        // TODO: Implement connect() method.
+        echo "www";
     }
 
     function query()
     {
-        // TODO: Implement query() method.
+        echo "qqqq";
     }
 
     function close()
