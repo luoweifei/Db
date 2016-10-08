@@ -15,6 +15,7 @@ class MySQL implements IDatabase
     function close()
     {
         // TODO: Implement close() method.
+        echo "close";
     }
 
 }
